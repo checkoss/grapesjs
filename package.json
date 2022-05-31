@@ -18,7 +18,7 @@
   "dependencies": {
     "@babel/runtime": "^7.9.2",
     "backbone": "1.3.3",
-    "backbone-undo": "^0.2.5",
+    "backbone-undo": "^0.2.6",
     "cash-dom": "^2.3.9",
     "codemirror": "^5.49.2",
     "codemirror-formatting": "^1.0.0",
